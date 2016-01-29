@@ -10,8 +10,7 @@
     install/update gradle
     Thanks!
     ======
-    https://gist.github.com/parzonka/9371885
-'
+  '
 
 downloadLatestVersion ()
 {
